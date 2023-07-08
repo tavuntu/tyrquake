@@ -10,7 +10,7 @@ Main features of the libretro port:
 -----------
 
 Date:		2009-07-05
-Version: 	0.61
+Version: 	0.62
 Author:		Kevin Shanahan (aka. Tyrann)
 Webpage:	http://disenchant.net
 email:		tyrann@disenchant.net
